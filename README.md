@@ -1,4 +1,3 @@
 # internet-explorer-redirection
-this simple javascript will redirect users to another page if they are using any version of internet explorer
 
-it is JS but put it in html so more people will know how to use and implement it. feel free to edit and commit to improve it and add it in JS if you prefur.
+There is a branch for the JS and HTML. they are the same code but the html is just an example of how to implement it.
